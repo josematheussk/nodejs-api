@@ -1,6 +1,6 @@
 # NodeJS API
 
-> API simples desenvolvida em NodeJS, com funcionalidade de CRUD básico.
+API simples desenvolvida em NodeJS, com CRUD básico.
 
 ## 💻 Pré-requisitos
 
