@@ -26,6 +26,10 @@ O projeto será inicializado na rota `http://localhost:4002`.
 
 > Mostra o produto individualmente por ID.
 
+ ```
+http://localhost:4002/products/e28cb9b1-49c4-4020-9622-bfc82d252919
+ ```
+
 
 ### POST http://localhost:4002/products
 
