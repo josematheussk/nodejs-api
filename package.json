@@ -1,0 +1,12 @@
+{
+  "name": "rocketseat",
+  "version": "1.0.0",
+  "description": "Primeiro projeto NodeJS",
+  "main": "index.js",
+  "scripts": {},
+  "author": "José Santos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
