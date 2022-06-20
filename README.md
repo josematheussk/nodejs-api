@@ -2,6 +2,8 @@
 
 > API simples desenvolvida em NodeJS, com funcionalidade de CRUD básico.
 
+## 💻 Pré-requisitos
+
 * Você instalou a versão mais recente do `NodeJS` e `NPM`.
 * Você tem uma máquina `Windows` ou `Linux`. 
 
