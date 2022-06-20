@@ -7,6 +7,10 @@
 * Você instalou a versão mais recente do `NodeJS` e `NPM`.
 * Você tem uma máquina `Windows` ou `Linux`. 
 
+## 🔧 Tecnologias usadas
+
+### NodeJS
+### ExpressJS
 
 ## ☕ Usando
 
